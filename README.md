@@ -1,4 +1,6 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+<p align="center">
+  <img src="https://imgur.com/jdDndGl.png" alt="MasterHead">
+</p>
 
 <h1 align="center">Hi 👋, I'm Thihansi Gunawardena</h1>
 <h3 align="center">A software engineering undergraduate from Sri Lanka Institute of Information Technology</h3>
