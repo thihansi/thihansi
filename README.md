@@ -1,9 +1,10 @@
+
+<h1 align="center">Hi 👋, I'm Thihansi Gunawardena (IT22350114) </h1>
+<h3 align="center">A software engineering undergraduate from Sri Lanka Institute of Information Technology</h3>
+
 <p align="center">
   <img src="https://imgur.com/jdDndGl.png" alt="MasterHead">
 </p>
-
-<h1 align="center">Hi 👋, I'm Thihansi Gunawardena</h1>
-<h3 align="center">A software engineering undergraduate from Sri Lanka Institute of Information Technology</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
 
